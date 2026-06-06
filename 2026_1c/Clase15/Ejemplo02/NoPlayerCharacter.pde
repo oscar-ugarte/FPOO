@@ -1,0 +1,4 @@
+class NoPlayerCharacter extends Personaje
+{
+  
+}

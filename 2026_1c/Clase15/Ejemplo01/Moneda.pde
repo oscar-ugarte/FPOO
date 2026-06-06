@@ -1,0 +1,4 @@
+class Moneda
+{
+ int valor; 
+}
